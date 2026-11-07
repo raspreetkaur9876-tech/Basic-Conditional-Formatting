@@ -1,0 +1,38 @@
+# Basic Conditional Formatting in Excel
+
+## Project Overview
+This project demonstrates the use of Basic Conditional Formatting in Microsoft Excel to highlight important sales values automatically.
+
+## Objective
+To improve report readability and identify the highest and lowest sales values using Excel formatting rules.
+
+## Dataset
+Retail Sales Dataset containing 15 products with:
+- Product
+- Category
+- Sales
+
+## Conditional Formatting Rules
+1. **Top 10 Items:** Highlights the highest 10 sales values.
+2. **Bottom 10 Items:** Highlights the lowest 10 sales values.
+3. **Greater Than:** Highlights sales values above 20,000.
+4. **Less Than:** Highlights sales values below 20,000.
+5. **Duplicate Values:** Identifies repeated sales values.
+
+## Tools Used
+- Microsoft Excel
+- Conditional Formatting
+- Excel Tables
+
+## Project Files
+- Retail_Sales_Conditional_Formatting.xlsx
+- README.md
+
+## Key Learning
+- Applying conditional formatting rules.
+- Identifying top and bottom sales values.
+- Highlighting values based on conditions.
+- Improving spreadsheet readability.
+
+## Conclusion
+This project helped me understand how Excel Conditional Formatting can automatically highlight important data and make sales reports easier to analyze.
